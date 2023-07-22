@@ -5,10 +5,11 @@
 - 🌱 Стремлюсь осваивать новые технологии, которые могу применять в работе
 - 👯 Хочу работать в дружном коллективе, где все будут уважать друг друга
 - 😄 Активно ищу свой первый проект =)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danyazhirkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhirkoffdaniil@gmail.com)
 
 ## Мои контакты
 
-<p align="left"> <a href="https://www.github.com/danyazhirkov" target="_blank" rel="noreferrer"><img src="https://www.themobileindian.com/wp-content/uploads/2021/06/images.jpg" width="32" height="32" /></a> <a href="http://www.instagram.com/danyazhirkov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danyazhirkov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/danyazhirkov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/danyazhirkov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danyazhirkov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 ## Стек технологий, которые я использую
