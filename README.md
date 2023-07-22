@@ -5,7 +5,7 @@
 - 🌱 Стремлюсь осваивать новые технологии, которые могу применять в работе
 - 👯 Хочу работать в дружном коллективе, где все будут уважать друг друга
 - 😄 Активно ищу свой первый проект =)
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danyazhirkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhirkoffdaniil@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-danyazhirkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danyazhirkov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhirkoffdaniil@gmail.com)
 
 ## Мои контакты
 
